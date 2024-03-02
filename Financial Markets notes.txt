@@ -1,0 +1,39 @@
+    Company Overview: Review msft.info to get a comprehensive overview of Microsoft, including business description, sector, industry, and full-time employee count.
+
+    Stock Performance: Analyze hist to understand recent stock price trends, including opens, closes, highs, lows, and volume over the last month.
+
+    Historical Context: Utilize msft.history_metadata to gain context on the historical data, such as the data source and retrieval dates.
+
+    Dividend Actions: Examine msft.dividends to assess dividend consistency and growth, which can indicate financial health and a commitment to returning value to shareholders.
+
+    Stock Splits History: Explore msft.splits to identify past stock splits, which can affect your understanding of historical stock prices.
+
+    Capital Gains: For applicable investment types like mutual funds or ETFs, msft.capital_gains can provide insights into realized gains distributions.
+
+    Outstanding Shares: Analyze data from msft.get_shares_full to understand trends in outstanding shares, potentially indicating buybacks or dilution.
+
+    Income Statement Analysis: Use msft.income_stmt and msft.quarterly_income_stmt to evaluate profitability trends, expense management, and revenue growth.
+
+    Balance Sheet Health: Assess msft.balance_sheet and msft.quarterly_balance_sheet for insights into financial stability, liquidity, and capital structure.
+
+    Cash Flow Insights: Investigate msft.cashflow and msft.quarterly_cashflow to understand operational efficiency, investment activities, and financing activities.
+
+    Shareholder Composition: Review msft.major_holders and msft.institutional_holders to see the distribution of ownership and potential influence on the company.
+
+    Insider Activity: Explore msft.insider_transactions and msft.insider_purchases for insights into insiders' confidence in the company's future.
+
+    Analyst Recommendations: Analyze msft.recommendations for market sentiment and potential future stock movement direction.
+
+    Earnings Dates: Use msft.earnings_dates to prepare for upcoming earnings announcements and historical performance.
+
+    ISIN Code: The msft.isin provides a unique identifier for the stock that can be useful for international trading.
+
+    Options Market Sentiment: Analyze the options chain data (opt.calls, opt.puts) for investor sentiment and potential future stock price movements.
+
+    Volatility and Risk Assessment: Options data can also provide insights into the expected volatility and risk assessment of the stock.
+
+    News Sentiment: Review msft.news to gauge recent news sentiment and its potential impact on stock performance.
+
+    Financial Ratios: Calculate key financial ratios from income statements, balance sheets, and cash flow statements for a deeper financial analysis.
+
+    Market Position and Competitiveness: Combine insights from financials, news, and analyst recommendations to assess Microsoft's market position and competitiveness within the tech sector.
